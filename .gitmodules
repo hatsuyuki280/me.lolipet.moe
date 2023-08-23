@@ -1,0 +1,4 @@
+[submodule "theme/kratos-rebirth"]
+	path = themes/kratos-rebirth
+	url = https://github.com/Candinya/Kratos-Rebirth.git
+	branch = master
